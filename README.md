@@ -72,17 +72,8 @@ cd AI-Placement-Analyzer
 npm install
 ```
 
-### 3. Add your API key
 
-Create a `.env` file in the root folder:
-
-```
-VITE_ANTHROPIC_KEY=your_claude_api_key_here
-```
-
-Get your key from [console.anthropic.com](https://console.anthropic.com)
-
-### 4. Run the project
+### 3. Run the project
 
 ```bash
 npm run dev
