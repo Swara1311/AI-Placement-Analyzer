@@ -136,4 +136,8 @@ MIT
 ### Dashboard
 <img width="628" height="356" alt="Image" src="https://github.com/user-attachments/assets/f2586201-fe10-4fdc-9f94-e55c5b189b1c" />
 
+<img width="629" height="350" alt="Image" src="https://github.com/user-attachments/assets/9a90c952-a7ec-4375-b936-3b1c986c1daf" />
+
+<img width="634" height="368" alt="Image" src="https://github.com/user-attachments/assets/0f92acb7-b5f0-4f0f-af96-fa7efdcba875" />
+
 
