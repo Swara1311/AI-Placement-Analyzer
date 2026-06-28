@@ -110,4 +110,28 @@ Drag the `dist/` folder to [netlify.com/drop](https://app.netlify.com/drop) — 
 
 ## 📄 License
 
-MIT
+MIT  
+
+## 📸 Screenshots
+
+### Home
+## 📸 Screenshots
+
+### Home
+<img width="632" height="356" alt="Image" src="https://github.com/user-attachments/assets/d3f8b55d-6ad1-4237-9443-c3a020ea33bb" />
+
+### Resume Upload
+<img width="638" height="325" alt="Image" src="https://github.com/user-attachments/assets/f89e5566-91ea-4848-aa71-1f922b2bf94f" />
+
+### Analysis Results
+<img width="637" height="354" alt="Image" src="https://github.com/user-attachments/assets/4c3c4da1-16df-4a2d-a88d-68e253f6731b" />
+
+<img width="638" height="359" alt="Image" src="https://github.com/user-attachments/assets/37befe2a-ed8f-4801-8f3d-3c05738608e8" />
+### Assessment Quiz
+<img width="632" height="356" alt="Image" src="https://github.com/user-attachments/assets/2aaf74a2-0b3c-496d-a599-7f5f97d23137" />
+
+<img width="637" height="353" alt="Image" src="https://github.com/user-attachments/assets/b5133779-0def-4e5f-8a5e-79d6abc5a53d" />
+### Dashboard
+<img width="628" height="356" alt="Image" src="https://github.com/user-attachments/assets/f2586201-fe10-4fdc-9f94-e55c5b189b1c" />
+
+
