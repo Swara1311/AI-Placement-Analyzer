@@ -5,7 +5,7 @@ An AI-powered resume analyzer and placement readiness platform built with React 
 Upload your resume, get an ATS score, take a skill assessment, and receive a personalized roadmap to crack campus placements.
 
 ## 🔗 Live Demo
-[Coming soon — deploy on Netlify]
+https://dainty-cassata-ee91bf.netlify.app/
 
 ---
 
