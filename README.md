@@ -115,9 +115,6 @@ MIT
 ## 📸 Screenshots
 
 ### Home
-## 📸 Screenshots
-
-### Home
 <img width="632" height="356" alt="Image" src="https://github.com/user-attachments/assets/d3f8b55d-6ad1-4237-9443-c3a020ea33bb" />
 
 ### Resume Upload
