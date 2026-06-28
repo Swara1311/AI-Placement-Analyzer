@@ -1,16 +1,41 @@
-# React + Vite
+# AI Placement Analyzer 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+AI Placement Analyzer is an AI-powered web application that helps students analyze their placement readiness by evaluating resumes, identifying skills, finding skill gaps, and providing career recommendations.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- 📄 Resume Upload & Analysis
+- 🤖 AI-based Resume Evaluation
+- 🧠 Skill Extraction
+- 📊 Placement Readiness Score
+- 🔍 Skill Gap Detection
+- 💼 Job Role Recommendations
+- 📚 Personalized Learning Suggestions
 
-## React Compiler
+## Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**Frontend**
+- React.js
+- Vite
+- JavaScript
+- HTML5
+- CSS3
 
-## Expanding the Oxlint configuration
+**Backend**
+- Node.js
+- Express.js
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+**Database**
+- MongoDB
+
+**AI Technologies**
+- Natural Language Processing (NLP)
+- Resume Parsing
+
+## Project Objective
+
+The objective of this project is to build an intelligent placement assistant that helps students understand their current skills, improve weaknesses, and prepare effectively for technical interviews and job opportunities.
+
+## Installation
+
+Clone the repository:
